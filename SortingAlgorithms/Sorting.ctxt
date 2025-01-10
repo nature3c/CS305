@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Sorting
+comment1.params=arr
+comment1.target=long\ bubbleSort(int[])
+comment2.params=arr
+comment2.target=long\ selectionSort(int[])
+comment3.params=arr
+comment3.target=long\ insertionSort(int[])
+comment4.params=arr\ i\ j
+comment4.target=void\ swap(int[],\ int,\ int)
+comment5.params=size
+comment5.target=int[]\ generateRandomArray(int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

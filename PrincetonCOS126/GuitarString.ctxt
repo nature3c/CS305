@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GuitarString
+comment1.params=frequency
+comment1.target=GuitarString(double)
+comment2.params=init
+comment2.target=GuitarString(double[])
+comment3.params=
+comment3.target=void\ pluck()
+comment4.params=
+comment4.target=void\ tic()
+comment5.params=
+comment5.target=double\ sample()
+numComments=6

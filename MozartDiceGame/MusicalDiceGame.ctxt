@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MusicalDiceGame
+comment1.params=directory
+comment1.target=void\ playMinuet(java.lang.String)
+comment2.params=directory
+comment2.target=void\ playTrio(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
