@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Essay
+comment0.text=\n\ Write\ a\ description\ of\ class\ Essay\ here.\n\n\ @author\ (Andrew\ Bae)\n\ @version\ (9/12/24)\n
+comment1.params=grammar\ spelling\ correctLength\ content
+comment1.target=void\ setScore(double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getGrammar()
+comment3.params=grammar
+comment3.target=void\ setGrammar(double)
+comment4.params=
+comment4.target=double\ getSpelling()
+comment5.params=spelling
+comment5.target=void\ setSpelling(double)
+comment6.params=
+comment6.target=double\ getCorrectLength()
+comment7.params=correctLength
+comment7.target=void\ setCorrectLength(double)
+comment8.params=
+comment8.target=double\ getContent()
+comment9.params=content
+comment9.target=void\ setContent(double)
+numComments=10

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CourseGrades
+comment0.text=\n\ The\ CourseGrades\ class\ represents\ the\ grades\ for\ different\ course\ components\n\ and\ implements\ the\ Analyzable\ interface\ to\ provide\ statistical\ analysis\ of\ the\ grades.\n
+comment1.params=
+comment1.target=CourseGrades()
+comment2.params=lab
+comment2.target=void\ setLab(GradeActivity)
+comment3.params=passFailExam
+comment3.target=void\ setPassFailExam(PassFailExam)
+comment4.params=essay
+comment4.target=void\ setEssay(Essay)
+comment5.params=finalExam
+comment5.target=void\ setFinalExam(FinalExam)
+comment6.params=
+comment6.target=double\ getAverage()
+comment7.params=
+comment7.target=GradeActivity\ getHighest()
+comment8.params=
+comment8.target=GradeActivity\ getLowest()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

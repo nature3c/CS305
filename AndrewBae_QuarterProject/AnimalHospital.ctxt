@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AnimalHospital
+comment1.params=inputFile
+comment1.target=AnimalHospital(java.lang.String)
+comment2.params=email
+comment2.target=boolean\ isValidEmail(java.lang.String)
+numComments=3

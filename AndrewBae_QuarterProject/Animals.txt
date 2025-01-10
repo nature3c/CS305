@@ -1,0 +1,8 @@
+CAT abc jill jill@imsa.edu green male 2 13312005 05222007 Error
+CAT abc jill jill@imsa.edu green male 2 01312005 05352007 Error
+CAT abc jill jill@imsa.edu green male 2 01312005 05222022 Error
+CAT abc jill jill@121.34.1.345 green male 2 01312005 05222007 Error
+CAT abc jill jill@imsa.edu green male 2 01312005 05222007
+DOG xyz rishi rishi@where.com blue female 25 03202010 04242020
+BIRD jeff trenton trenton@gmail.com purple male false 09082005 09082006
+END

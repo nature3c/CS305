@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PassFailActivity
+comment0.text=\n\ Write\ a\ description\ of\ class\ PassFailActivity\ here.\n\n\ @author\ (Andrew\ Bae)\n\ @version\ (9/12/24)\n
+comment1.params=minPassingScore
+comment1.target=PassFailActivity(double)
+comment2.params=
+comment2.target=char\ getGrade()
+comment3.params=
+comment3.target=double\ getMinPassingScore()
+numComments=4

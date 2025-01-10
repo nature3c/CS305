@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GradeActivity
+comment0.text=\n\ contains\ score\:\ double\n\ +setScore(s\:\ double)\:\ void\n\ +getScore()\:\ double\n\ +getGrade()\:\ char\n\n\ @author\ (Andrew\ Bae)\n\ @version\ (9/12/24)\n
+comment1.params=score
+comment1.target=void\ setScore(double)
+comment2.params=
+comment2.target=double\ getScore()
+comment3.params=
+comment3.target=char\ getGrade()
+numComments=4

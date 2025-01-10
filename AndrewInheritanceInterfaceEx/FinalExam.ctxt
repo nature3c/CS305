@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FinalExam
+comment0.text=\n\ Write\ a\ description\ of\ class\ FinalExam\ here.\n\n\ @author\ (Andrew\ Bae)\n\ @version\ (9/12/24)\n
+comment1.params=numQuestions\ numMissed
+comment1.target=FinalExam(int,\ int)
+comment2.params=
+comment2.target=double\ getPointsEach()
+comment3.params=
+comment3.target=int\ getNumMissed()
+numComments=4

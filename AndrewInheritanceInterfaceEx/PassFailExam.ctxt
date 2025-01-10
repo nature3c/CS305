@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PassFailExam
+comment0.text=\n\ Write\ a\ description\ of\ class\ PassFailExam\ here.\n\n\ @author\ (Andrew\ Bae)\n\ @version\ (9/12/24)\n
+comment1.params=numQuestions\ numMissed\ minPassingScore
+comment1.target=PassFailExam(int,\ int,\ double)
+comment2.params=
+comment2.target=double\ getPointsEach()
+comment3.params=
+comment3.target=int\ getNumMissed()
+numComments=4
