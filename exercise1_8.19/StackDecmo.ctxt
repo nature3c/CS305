@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StackDecmo
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=st\ a
+comment2.target=void\ showpush(java.util.Stack,\ int)
+comment3.params=st
+comment3.target=void\ showpop(java.util.Stack)
+numComments=4

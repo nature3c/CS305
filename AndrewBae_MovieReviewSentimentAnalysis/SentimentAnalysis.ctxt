@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SentimentAnalysis
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=scanner
+comment2.target=void\ calculateWordSentiment(java.util.Scanner)
+comment3.params=scanner
+comment3.target=void\ calculateFileSentiment(java.util.Scanner)
+comment4.params=scanner
+comment4.target=void\ findMostPositiveAndNegative(java.util.Scanner)
+comment5.params=scanner
+comment5.target=void\ sortWordsIntoFiles(java.util.Scanner)
+comment6.params=word
+comment6.target=int[]\ calculateWordScore(java.lang.String)
+comment7.params=score
+comment7.target=java.lang.String\ getSentimentLabel(double)
+numComments=8

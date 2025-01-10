@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BarCode
+comment1.params=
+comment1.target=BarCode()
+comment2.params=number
+comment2.target=java.lang.String\ encode(java.lang.String)
+comment3.params=barcode
+comment3.target=java.lang.String\ decode(java.lang.String)
+comment4.params=digit
+comment4.target=java.lang.String\ singleDigit(java.lang.String)
+comment5.params=pattern
+comment5.target=java.lang.String\ singlePattern(java.lang.String)
+comment6.params=input
+comment6.target=java.lang.String\ cierto(java.lang.String)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
