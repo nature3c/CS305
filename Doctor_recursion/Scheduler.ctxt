@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Scheduler
+comment1.params=name\ availableHours
+comment1.target=Doctor(java.lang.String,\ int)
+comment2.params=doctors\ patients
+comment2.target=Scheduler(java.util.List,\ java.util.List)
+comment3.params=filename
+comment3.target=java.util.List\ loadDoctors(java.lang.String)
+comment4.params=filename
+comment4.target=java.util.List\ loadPatients(java.lang.String)
+comment5.params=
+comment5.target=boolean\ schedulePatients()
+comment6.params=patientIndex
+comment6.target=boolean\ backtrack(int)
+comment7.params=g
+comment7.target=void\ paintComponent(java.awt.Graphics)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

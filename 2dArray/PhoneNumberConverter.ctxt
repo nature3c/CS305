@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PhoneNumberConverter
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ The\ main\ method\ prompts\ the\ user\ for\ a\ 10-character\ phone\ number\n\ and\ displays\ the\ converted\ number.\n
+comment2.params=phoneNumber
+comment2.target=java.lang.String\ convertPhoneNumber(java.lang.String)
+comment2.text=\n\ Converts\ a\ phone\ number\ with\ alphabetic\ characters\ to\ its\ numeric\ equivalent.\n\n\ @param\ phoneNumber\ The\ phone\ number\ to\ be\ converted\n\ @return\ The\ phone\ number\ with\ letters\ replaced\ by\ corresponding\ numbers\n
+comment3.params=letter
+comment3.target=int\ getNumberForLetter(char)
+comment3.text=\n\ Gets\ the\ numeric\ equivalent\ for\ a\ given\ alphabetic\ character\ based\ on\ telephone\ keypad\ mapping.\n\n\ @param\ letter\ The\ alphabetic\ character\ to\ convert\n\ @return\ The\ corresponding\ numeric\ value\n
+numComments=4

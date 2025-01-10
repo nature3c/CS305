@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\n\ @author\ npandya\ March\ 2016\ The\ Class\ Node.\n
+comment1.params=
+comment1.target=Node()
+comment1.text=\n\ Instantiates\ a\ new\ node.\n
+comment2.params=d\ n
+comment2.target=Node(int,\ Node)
+comment2.text=\n\ Instantiates\ a\ new\ node.\n\ \n\ @param\ d\ -\ the\ data\n\ \n\ @param\ n\ -\ the\ link\ to\ the\ next\n
+comment3.params=n
+comment3.target=void\ setLink(Node)
+comment3.text=\n\ Sets\ the\ link.\n\ \n\ @param\ n\ -\ the\ new\ link\n
+comment4.params=d
+comment4.target=void\ setData(int)
+comment4.text=\n\ Sets\ the\ data.\n\ \n\ @param\ d\n\ \ \ \ \ \ \ \ \ \ \ \ the\ new\ data\n
+comment5.params=
+comment5.target=Node\ getLink()
+comment5.text=\n\ Gets\ the\ link.\n\ \n\ @return\ the\ link\n
+comment6.params=
+comment6.target=int\ getData()
+comment6.text=\n\ Gets\ the\ data.\n\ \n\ @return\ the\ data\n
+numComments=7

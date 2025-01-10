@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MapDataDrawer
+comment1.params=filename\ rows\ cols
+comment1.target=MapDataDrawer(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ findMinValue()
+comment2.text=\n\ @return\ the\ min\ value\ in\ the\ entire\ grid\n
+comment3.params=
+comment3.target=int\ findMaxValue()
+comment3.text=\n\ @return\ the\ max\ value\ in\ the\ entire\ grid\n
+comment4.params=col
+comment4.target=int\ indexOfMinInCol(int)
+comment4.text=\n\ @param\ col\ the\ column\ of\ the\ grid\ to\ check\n\ @return\ the\ index\ of\ the\ row\ with\ the\ lowest\ value\ in\ the\ given\ col\ for\ the\ grid\n
+comment5.params=g
+comment5.target=void\ drawMap(java.awt.Graphics)
+comment5.text=\n\ Draws\ the\ grid\ using\ the\ given\ Graphics\ object.\n\ Colors\ should\ be\ grayscale\ values\ 0-255,\ scaled\ based\ on\ min/max\ values\ in\ grid\n
+comment6.params=g\ row
+comment6.target=int\ drawLowestElevPath(java.awt.Graphics,\ int)
+comment6.text=\n\ Find\ a\ path\ from\ West-to-East\ starting\ at\ given\ row.\n\ Choose\ a\ forward\ step\ out\ of\ 3\ possible\ forward\ locations,\ using\ greedy\ method\ described\ in\ assignment.\n\ @return\ the\ total\ change\ in\ elevation\ traveled\ from\ West-to-East\n
+comment7.params=g
+comment7.target=int\ indexOfLowestElevPath(java.awt.Graphics)
+comment7.text=\n\ @return\ the\ index\ of\ the\ starting\ row\ for\ the\ lowest-elevation-change\ path\ in\ the\ entire\ grid.\n
+numComments=8

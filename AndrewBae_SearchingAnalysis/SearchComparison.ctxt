@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SearchComparison
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=size
+comment2.target=int[]\ generateRandomArray(int)
+comment3.params=array\ useBinarySearch\ isSorted
+comment3.target=long\ measureSearchTime(int[],\ boolean,\ boolean)
+comment4.params=array\ target
+comment4.target=int\ linearSearchRandom(int[],\ int)
+comment5.params=array\ target
+comment5.target=int\ linearSearchSorted(int[],\ int)
+comment6.params=array\ target
+comment6.target=int\ binarySearch(int[],\ int)
+numComments=7
